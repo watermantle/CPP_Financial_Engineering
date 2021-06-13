@@ -1,0 +1,7 @@
+Three spreedsheets to test TestSginleCurve.cpp, TestTwoCurve.cpp, and TestMultipleCurve.cpp respectively.
+
+SingleCurve tests Batch 1 Call option with S range from 10 to 70
+
+TwoCurve tests Batch 1 Call and Put option with S range from 10 to 70
+
+Multiple tests Batch 2 Call and Put option, Batch 4 Call and Put option with S range from 50 to 110
